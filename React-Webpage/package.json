@@ -1,0 +1,38 @@
+{
+  "name": "weather-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.4.1"
+  },
+  "dependencies": {
+    "axios": "^0.15.2",
+    "babel-eslint": "^7.0.0",
+    "belle": "^2.0.8",
+    "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
+    "eslint-config-react-app": "^0.3.0",
+    "eslint-plugin-flowtype": "^2.21.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "material-design-icons": "^3.0.1",
+    "material-ui": "^0.16.1",
+    "querystring": "^0.2.0",
+    "react": "^15.3.1",
+    "react-addons-css-transition-group": "^15.3.1",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.1",
+    "react-foundation": "^0.7.0",
+    "react-router": "^2.8.1",
+    "react-tap-event-plugin": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
